@@ -1,0 +1,114 @@
+What is the data type of 10? {
+= Integer
+~ String
+~ Float
+~ Boolean
+}
+
+What is the data type of "Hello"? {
+= String
+~ Integer
+~ Float
+~ Boolean
+}
+
+What is the result of 5 + 3? {
+= 8
+~ 53
+~ 15
+~ Error
+}
+
+What is the result of 10 / 2 in Python? {
+= 5.0
+~ 5
+~ 10
+~ Error
+}
+
+What is the result of 10 // 3? {
+= 3
+~ 3.33
+~ 4
+~ 1
+}
+
+What does the % operator do? {
+= Modulus (remainder)
+~ Division
+~ Multiplication
+~ Power
+}
+
+What is the result of 10 % 3? {
+= 1
+~ 3
+~ 0
+~ 10
+}
+
+What is the result of 2 ** 3? {
+= 8
+~ 6
+~ 9
+~ 5
+}
+
+What is the data type of True? {
+= Boolean
+~ String
+~ Integer
+~ Float
+}
+
+What will print(type(3.14)) output? {
+= float
+~ int
+~ string
+~ boolean
+}
+
+What is the result of "Hello" + "World"? {
+= HelloWorld
+~ Hello World
+~ Error
+~ Hello+World
+}
+
+What is the result of "3" + "4"? {
+= 34
+~ 7
+~ Error
+~ 12
+}
+
+What is the result of int("5") + 2? {
+= 7
+~ 52
+~ Error
+~ "52"
+}
+
+What is the result of 5 > 3? {
+= True
+~ False
+~ 5
+~ Error
+}
+
+Which operator checks equality? {
+= ==
+~ =
+~ !=
+~ >
+}
+
+::Q16::อธิบายความแตกต่างระหว่าง int และ float คืออะไร {=}
+
+::Q17::อธิบายว่า operator // ต่างจาก / อย่างไร {=}
+
+::Q18::ถ้าเขียน "5" + 3 จะเกิดอะไรขึ้น และเพราะอะไร {=}
+
+::Q19::อธิบายว่า type() function ใช้ทำอะไร {=}
+
+::Q20::ยกตัวอย่างการใช้ modulus (%) ในชีวิตจริง 1 ตัวอย่าง พร้อมอธิบาย {=}
